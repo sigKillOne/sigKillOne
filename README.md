@@ -1,9 +1,63 @@
-# 💫 About Me:
-🔭 I'm currently working on AI automation pipelines using Docker, n8n & GCP<br>🤝 I'm looking to collaborate on open-source DevOps and AI/ML projects<br>🍵 I'm looking for help with designing scalable cloud-native workflows on GCP<br>🌱 I'm currently learning AI-driven automation integrated with DevOps practices and cloud infrastructure<br>💬 Ask me about Docker, CI/CD pipelines, n8n workflow automation, or Linux<br>⚡ Fun fact I use Arch BTW — I like to keep things minimal and in control
+<div align="center">
 
+```
+ _   _ _____ _   _  _____ _____ _____
+| | | |_   _| \ | ||  ___|  ___|_   _|
+| | | | | | |  \| || |__ | |__   | |
+| | | | | | | . ` ||  __||  __|  | |
+\ \_/ /_| |_| |\  || |___| |___  | |
+ \___/ \___/\_| \_/\____/\____/  \_/
+```
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineethsoudri01@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+```
+[vineet㉿saber]-[~]
+└─$ whoami
+```
+
+```
+ Vineet  | CS Student & Developer
+ ─────────────────────────────────────────────────
+ ▸ Student @ Presidency University · Bengaluru
+ ▸ OS : Arch Linux
+ ▸ Focus : AI Automation · DevOps · Cloud · Open Source
+```
+
+---
+
+```
+[vineet㉿saber]-[~/stack]
+└─$ ls tools/ && uname -a
+```
+
+```
+LANG      ····  Python  Java  Bash  SQL
+DEVOPS    ··    Docker  Kubernetes  GitHub Actions  Jenkins  n8n
+CLOUD     ···   AWS  GCP  Vertex AI
+OBS       ·····  Elasticsearch  Logstash  Kibana
+BACKEND   ·    Spring Boot  Flask  FastAPI  PostgreSQL  MariaDB  MongoDB
+```
+
+---
+
+```
+[vineet㉿saber]-[~]
+└─$ echo $CONTACT
+```
+
+```
+ › email      ·  vineethsoudri01@gmail.com
+ › reddit     ·  u/justbetter069
+ › location   ·  Bengaluru, India
+```
+
+```
+// always open to collab on: AI Automation · DevOps · Open Source
+```
+
+<div align="center">
+
+`[ keep it minimal · automate everything · ship it ]`
+
+</div>
