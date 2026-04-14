@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=240&section=header&text=vineet&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn" width="100%" alt="vineet banner"/>
-
-  <p align="center">
-    Engineering Student @ Presidency University · 1.048596% Divergence · AI Automation
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=240&section=header&text=vineet&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=cloud%20and%20devops%20engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="vineet banner"/>
 </div>
 
 ---
@@ -31,6 +27,8 @@ I am a self-driven engineer focused on building robust, automated infrastructure
 - **Reddit:** [u/justbetter0069](https://reddit.com/u/justbetter0069)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=120&section=footer" width="100%" alt="Footer wave"/>
-  <p><strong>El Psy Kongroo.</strong></p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" width="100%" alt="Footer wave"/>
+<p><strong>El Psy Kongroo.</strong></p>
 </div>
