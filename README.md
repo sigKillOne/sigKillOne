@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://images8.alphacoders.com/624/624128.png" width="800px" alt="Divergence Meter">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=240&section=header&text=vineet&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="vineet banner"/>
+</div>
+
 
 <p align="center">
   Engineering Student @ Presidency University · Cloud & DevOps Engineer · AI Automation
