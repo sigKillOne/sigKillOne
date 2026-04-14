@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=240&section=header&text=vineet&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="vineet banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=240&section=header&text=vineet&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn" width="100%" alt="vineet banner"/>
+
+  <p align="center">
+    Engineering Student @ Presidency University · 1.048596% Divergence · AI Automation
+  </p>
 </div>
-
-
-<p align="center">
-  Engineering Student @ Presidency University · Cloud & DevOps Engineer · AI Automation
-</p>
 
 ---
 
@@ -19,7 +18,7 @@ I am a self-driven engineer focused on building robust, automated infrastructure
   - **AI-Based Anomaly Detection:** Real-time system monitoring and threat detection using machine learning.
   - **Bank Churn Prediction:** AI model designed to analyze customer behavior and predict retention risks.
   - **CampusConnect:** Full-stack utility ecosystem for university students to manage canteen menus and find groups.
- 
+  - **AuthWave:** Secure authentication service and identity management built during my backend internship.
 
 ---
 
@@ -31,6 +30,7 @@ I am a self-driven engineer focused on building robust, automated infrastructure
 - **Instagram:** [@vineet_83](https://instagram.com/vineet_83)
 - **Reddit:** [u/justbetter0069](https://reddit.com/u/justbetter0069)
 
-<p align="center">
-  <strong>El Psy Kongroo.</strong>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=120&section=footer" width="100%" alt="Footer wave"/>
+  <p><strong>El Psy Kongroo.</strong></p>
+</div>
