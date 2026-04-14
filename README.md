@@ -2,8 +2,6 @@
   <img src="https://images8.alphacoders.com/624/624128.png" width="800px" alt="Divergence Meter">
 </p>
 
-<h1 align="center">VINEET | 1.048596%</h1>
-
 <p align="center">
   Engineering Student @ Presidency University · Cloud & DevOps Engineer · AI Automation
 </p>
@@ -14,12 +12,13 @@
 
 I am a self-driven engineer focused on building robust, automated infrastructures. Currently observing the 1.048596% worldline and ensuring system stability through cloud-native solutions.
 
-- **Current Loadout:** Python / Java / AWS / GCP / Docker / Kubernetes / GitHub Actions / ELK Stack / n8n
+- **System Loadout:** Python / Java / AWS / GCP / Docker / Kubernetes / GitHub Actions / ELK Stack / n8n
 
-- **Active Operations:**
-  - **AuthWave:** Secure authentication service and identity management.
-  - **CampusConnect:** Full-stack utility ecosystem for university students.
-  - **SafeRelease:** CI/CD pipeline automation for secure enterprise deployments.
+- **Key Projects:**
+  - **AI-Based Anomaly Detection:** Real-time system monitoring and threat detection using machine learning.
+  - **Bank Churn Prediction:** AI model designed to analyze customer behavior and predict retention risks.
+  - **CampusConnect:** Full-stack utility ecosystem for university students to manage canteen menus and find groups.
+ 
 
 ---
 
