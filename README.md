@@ -8,17 +8,13 @@
 
 Aspiring engineer interested in DevOps, automation, and cloud-native systems. I enjoy building reliable and efficient infrastructure.
 
--  - **System Loadout:**
+- **System Loadout:**
   <br/>
-  <img src="./img/Bash-Dark.svg" width="35" height="35" alt="Python"> 
-  <img src="./img/Java-Light.svg" width="35" height="35" alt="Java"> 
-  <img src="./img/AWS-Dark.svg" width="35" height="35" alt="AWS"> 
-  <img src="./img/GCP-Dark.svg" width="35" height="35" alt="GCP"> 
-  <img src="./img/Docker.svg" width="35" height="35" alt="Docker"> 
-  <img src="./img/Kubernetes.svg" width="35" height="35" alt="Kubernetes"> 
-  <img src="./img/elk.svg" width="35" height="35" alt="ELK Stack"> 
-  <img src="./img/n8n.svg" width="35" height="35" alt="n8n">
-- **Key Projects:**
+  <img src="./img/Bash-Dark.svg" width="45" height="45" alt="Python"> <img src="./img/Java-Light.svg" width="45" height="45" alt="Java"> <img src="./img/AWS-Dark.svg" width="45" height="45" alt="AWS"> <img src="./img/GCP-Dark.svg" width="45" height="45" alt="GCP"> <img src="./img/Docker.svg" width="45" height="45" alt="Docker"> <img src="./img/Kubernetes.svg" width="45" height="45" alt="Kubernetes"> <img src="./img/elk.svg" width="45" height="45" alt="ELK Stack"> <img src="./img/n8n.svg" width="45" height="45" alt="n8n">
+
+
+
+-- **Key Projects:**
   - **AI-Based Anomaly Detection:** Real-time system monitoring and threat detection using machine learning.
   - **Bank Churn Prediction:** AI model designed to analyze customer behavior and predict retention risks.
   - **CampusConnect:** Full-stack utility ecosystem for university students to manage canteen menus and find groups.
