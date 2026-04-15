@@ -6,7 +6,7 @@
 
 ### **SYSTEM_LOG**
 
-I am a self-driven engineer focused on building robust, automated infrastructures. Currently observing the 1.048596% worldline and ensuring system stability through cloud-native solutions.
+Aspiring engineer interested in DevOps, automation, and cloud-native systems. I enjoy building reliable and efficient infrastructure.
 
 -  - **System Loadout:** <img src="./img/Bash-Dark.svg" width="22" height="22" valign="middle"> Python / 
   <img src="./img/Java-Light.svg" width="22" height="22" valign="middle"> Java / 
@@ -21,17 +21,19 @@ I am a self-driven engineer focused on building robust, automated infrastructure
   - **AI-Based Anomaly Detection:** Real-time system monitoring and threat detection using machine learning.
   - **Bank Churn Prediction:** AI model designed to analyze customer behavior and predict retention risks.
   - **CampusConnect:** Full-stack utility ecosystem for university students to manage canteen menus and find groups.
-  - **AuthWave:** Secure authentication service and identity management built during my backend internship.
+  
 
 ---
 
-### **COMMUNICATION_PROTOCOL**
+### **REACH_ME**
 
-> *"No one knows what the future holds. That's why its potential is infinite."* — Rintaro Okabe
+
 
 - **Email:** [vineethsoudri01@gmail.com](mailto:vineethsoudri01@gmail.com)
 - **Instagram:** [@vineet_83](https://instagram.com/vineet_83)
-- **Reddit:** [u/justbetter0069](https://reddit.com/u/justbetter0069)
+- **Reddit:** [u/justbetter069](https://reddit.com/u/justbetter069)
+
+> *"No one knows what the future holds. That's why its potential is infinite."* — Rintaro Okabe
 
 <div align="center">
 
