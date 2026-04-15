@@ -8,7 +8,14 @@
 
 I am a self-driven engineer focused on building robust, automated infrastructures. Currently observing the 1.048596% worldline and ensuring system stability through cloud-native solutions.
 
-- **System Loadout:** Python / Java / AWS / GCP / Docker / Kubernetes / GitHub Actions / ELK Stack / n8n
+-  - **System Loadout:** <img src="./img/Bash-Dark.svg" width="22" height="22" valign="middle"> Python / 
+  <img src="./img/Java-Light.svg" width="22" height="22" valign="middle"> Java / 
+  <img src="./img/AWS-Dark.svg" width="22" height="22" valign="middle"> AWS / 
+  <img src="./img/GCP-Dark.svg" width="22" height="22" valign="middle"> GCP / 
+  <img src="./img/Docker.svg" width="22" height="22" valign="middle"> Docker / 
+  <img src="./img/Kubernetes.svg" width="22" height="22" valign="middle"> Kubernetes / 
+  <img src="./img/elk.svg" width="22" height="22" valign="middle"> ELK Stack / 
+  <img src="./img/n8n.svg" width="22" height="22" valign="middle"> n8n
 
 - **Key Projects:**
   - **AI-Based Anomaly Detection:** Real-time system monitoring and threat detection using machine learning.
